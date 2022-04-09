@@ -1,0 +1,5 @@
+name: GrassSpawnsIgnitedTnt
+version: 1.0
+author: BreakSapphire
+main: com.breaksapphire.tntgrass.Main
+description: Walking on grass will summon primed tnt.
