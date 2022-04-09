@@ -14,7 +14,7 @@ You can [migrate the project into intellij](https://www.jetbrains.com/help/idea/
 ## Version
 1.0
 
-I will not make any updates to this plugin
+I will not make any updates to this plugin apart from migrating it to 1.19 when it releases.
 
 ## Description
 Native Version is 1.18. 
