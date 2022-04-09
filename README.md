@@ -1,7 +1,7 @@
 # TntGrass
 Another spigot plugin made by me. For Minecraft 1.18.2 Inspired by boffy's video.
 
-[Download Here](https://github.com/BreakSapphire/TntGrass/releases/tag/1.0)
+[Download Here](https://github.com/BreakSapphire/TntGrass/releases/download/1.0/TntGrass.jar)
 
 # DeadlyBlue
 This is a Minecraft spigot plugin
