@@ -29,4 +29,4 @@ My plugin is not availible on spigotmc.org
 # Q/A
 
 <p><span>(Q) How can I cotact you if there is a bug?</span></p>
-<p><span>(A) Message me on discord so I can help you fix the problem. Sapphire#3391 (My discord tag might change depending on my nitro subscription so [lookup my name using](https://discord.id/) my id: 710552018476990505)</span></p>
+<p><span>(A) Message me on discord so I can help you fix the problem.\nUsername: Stevontavius</span></p>
